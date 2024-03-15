@@ -1,6 +1,11 @@
 ---
-title: "About"
+toc: false
 ---
 
-About this site
+## Education
 
+University of California, Los Angeles 
+
+*B.S. Statistics*
+
+*B.S. Economics*

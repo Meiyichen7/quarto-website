@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Meiyi_Website",
+    "title": "Meiyi Chen",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "Welcome to my website! I am Meiyi Chen, currently a senior year student in UCLA.\nAttached is my current CV"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Meiyi Chen",
     "section": "",
-    "text": "About this site"
+    "text": "University of California, Los Angeles\nB.S. Statistics\nB.S. Economics"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Meiyi Chen",
+    "section": "",
+    "text": "Welcome to my website! I am Meiyi Chen, currently a senior year student in UCLA.\nAttached is my current CV"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Meiyi Chen",
+    "section": "",
+    "text": "University of California, Los Angeles\nB.S. Statistics\nB.S. Economics"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Meiyi Chen",
+    "section": "",
+    "text": "Shenzhen Capital Group\nVenture Capital Summer Intern\nJune 2023 – Sep 2023\nPricewaterhouseCoopers\nStrategy Advisory Summer Intern\nJun 2022 – Aug 2022\nChina Merchants Securities\nInvestment Banking Summer Analyst\nJul 2021 – Sep 2021\nTF Securities\nEquity Research Part-time Analyst\nNov 2020 – Mar 2021"
+  },
+  {
+    "objectID": "project.html#work-experience",
+    "href": "project.html#work-experience",
+    "title": "Meiyi Chen",
+    "section": "",
+    "text": "Shenzhen Capital Group\nVenture Capital Summer Intern\nJune 2023 – Sep 2023\nPricewaterhouseCoopers\nStrategy Advisory Summer Intern\nJun 2022 – Aug 2022\nChina Merchants Securities\nInvestment Banking Summer Analyst\nJul 2021 – Sep 2021\nTF Securities\nEquity Research Part-time Analyst\nNov 2020 – Mar 2021"
   }
 ]

@@ -6,11 +6,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - href: about.qmd
-        text: Bio
+        text: Education
       - href: project.qmd
-        text: Project
+        text: Work Experience
+  page-footer: 
+    right: "&copy, 2024,Meiyi Chen"
 
 format:
   html:

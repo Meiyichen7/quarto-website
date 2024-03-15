@@ -1,8 +1,26 @@
 ---
-title: "Meiyi_Website"
+toc: false
+
+about:
+  template: trestles
+  links:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/joycechen0716/
+      - icon: github
+        text: Github
+        url: https://github.com/Meiyichen7
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:joycechen0716@g.ucla.edu"
+image: profilepic.png                              
+
 ---
 
-This is a Quarto website.
+## About me:
 
+Welcome to my website! I am Meiyi Chen, currently a senior year student in UCLA.
+
+Attached is my current [CV](/resume/CV.pdf)
 
 
