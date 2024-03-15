@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f6dda871-7b0a-49c7-92a0-8b5177ffea5b
+      url: 'meiyichen.netlify.app'
